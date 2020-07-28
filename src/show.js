@@ -27,8 +27,7 @@ class Show extends Component {
 
 
   render() {
-    const show = '我是第二个context定义的全局的值'
-    console.log(this.state)
+
     return (
 
       <div>
